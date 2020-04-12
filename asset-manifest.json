@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kitties-rolodex/static/css/main.99053296.chunk.css",
+    "main.js": "/kitties-rolodex/static/js/main.4765ab20.chunk.js",
+    "main.js.map": "/kitties-rolodex/static/js/main.4765ab20.chunk.js.map",
+    "runtime-main.js": "/kitties-rolodex/static/js/runtime-main.0684aeac.js",
+    "runtime-main.js.map": "/kitties-rolodex/static/js/runtime-main.0684aeac.js.map",
+    "static/js/2.7a6e619d.chunk.js": "/kitties-rolodex/static/js/2.7a6e619d.chunk.js",
+    "static/js/2.7a6e619d.chunk.js.map": "/kitties-rolodex/static/js/2.7a6e619d.chunk.js.map",
+    "index.html": "/kitties-rolodex/index.html",
+    "precache-manifest.d0968989016d485166c257806f57c343.js": "/kitties-rolodex/precache-manifest.d0968989016d485166c257806f57c343.js",
+    "service-worker.js": "/kitties-rolodex/service-worker.js",
+    "static/css/main.99053296.chunk.css.map": "/kitties-rolodex/static/css/main.99053296.chunk.css.map",
+    "static/js/2.7a6e619d.chunk.js.LICENSE": "/kitties-rolodex/static/js/2.7a6e619d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0684aeac.js",
+    "static/js/2.7a6e619d.chunk.js",
+    "static/css/main.99053296.chunk.css",
+    "static/js/main.4765ab20.chunk.js"
+  ]
+}
